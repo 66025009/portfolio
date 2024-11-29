@@ -25,7 +25,6 @@ const Layout = () => {
       projectSection.scrollIntoView({ behavior: 'smooth' });
     });
 
-    // Clean up event listeners when the component unmounts
     return () => {
       aboutLink.removeEventListener('click', () => {});
       homeLink.removeEventListener('click', () => {});
