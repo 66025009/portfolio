@@ -4,6 +4,7 @@ import dynamic from "next/dynamic";
 import Navi from "../components/navi";  
 import About from "../components/about"
 import Skills from "../components/skills"
+import Project from "../components/project"
 
 const SplineScrollScene = dynamic(() => import("../components/SplineScrollScene"));
 
@@ -14,6 +15,7 @@ export default function Home() {
       <SplineScrollScene />
       <About />
       <Skills/>
+      <Project />
     </div>
   );
 }
