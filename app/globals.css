@@ -19,3 +19,17 @@ body {
   background: var(--background);
   font-family: Arial, Helvetica, sans-serif;
 }
+
+@keyframes runAnimation {
+  0% {
+    transform: translateX(-100%); 
+  }
+  100% {
+    transform: translateX(100vw); 
+  }
+}
+
+.animate-run {
+  animation: runAnimation 30s linear infinite; 
+}
+
