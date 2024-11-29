@@ -9,7 +9,7 @@ const About = () => {
           Greetings, Earthling. 👽 I am XBJO, a coder by day, dreamer by night. 🌙 I explore the vast universe of software development 🌌, creating digital worlds that are as boundless as the stars themselves. My journey through the cosmos of code is fueled by curiosity, innovation, and the desire to push the boundaries of what’s possible. 🌠
           </p>
           <p className="text-xl text-gray-200 mt-4 relative z-10">
-          If you're ready to launch into the next big adventure or collaborate on something stellar, feel free to reach out. I’m always on the lookout for new galaxies to conquer. 🌌🔭
+          If you are ready to launch into the next big adventure or collaborate on something stellar, feel free to reach out. I’m always on the lookout for new galaxies to conquer. 🌌🔭
           </p>
   
           <div className="absolute bottom-0 left-0 w-14 h-14 animate-run z-10">
