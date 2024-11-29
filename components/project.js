@@ -55,21 +55,21 @@ const Project = () => {
           <div className="card bg-base-100 image-full w-[520px] shadow-xl">
             <figure className="h-64">
                 <img
-                    src="/Hamtarot.png"
-                    alt="Project 2"
+                    src="/FindWork.png"
+                    alt="Project 3"
                     className="w-full h-full object-cover rounded-t-lg"
                 />
             </figure>
             <div className="card-body p-6">
-                <h2 className="card-title text-3xl">Hamtarot!</h2>
+                <h2 className="card-title text-3xl">FindWork!</h2>
                 <p className="text-lg">
-                 สามารถดูดวงออนไลน์ได้ทุกที่ ทุกเวลา 
+                เป็นคอมมูนิตี้ที่เปิดให้ผู้ที่กำลังมองหางาน 
                 <br>
                 </br>
-                เพียงแค่คุณมีอินเทอร์เน็ต
+                หรือผู้ที่ต้องการคำแนะนำในการพัฒนาตัวเอง
                 </p>
                 <div className="card-actions justify-end">
-                    <a href="https://hamtarott.vercel.app/" target="_blank" rel="noopener noreferrer">
+                    <a href="https://findwork-f79e5.web.app/" target="_blank" rel="noopener noreferrer">
                         <button className="btn text-lg py-3 px-6">Learn More</button>
                     </a>
                 </div>
